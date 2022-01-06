@@ -121,6 +121,7 @@ main{
 }
 
 .services-section{
+    box-shadow: 5px 10px 17px rgb(212, 211, 211);
     margin:0 auto;
     width: 30%;
     height: auto;
